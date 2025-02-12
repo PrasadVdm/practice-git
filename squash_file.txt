@@ -1,1 +1,2 @@
 This is sqash commit 1 edit 1
+This is squash commit 2 edit 2

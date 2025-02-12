@@ -1,1 +1,2 @@
 This is to practice reset in git
+This is another line in practicing

@@ -1,6 +1,8 @@
 pipeline {
     agent any
-
+    triggers {
+        githubPush()
+    }
     environment {
         NEXUS_URL = '172.31.22.182:8081'  // Nexus URL
         NEXUS_REPO = 'vprofile-repo' 

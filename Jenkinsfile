@@ -5,7 +5,7 @@ pipeline {
     }
     environment {
         NEXUS_URL = '172.31.22.182:8081'  // Nexus URL
-        NEXUS_REPO = 'vprofile-repo' 
+        NEXUS_REPO = 'vprofile-repo-2' 
         NEXUS_CRED = 'nexuslogin'              // Nexus repository name
         ARTIFACT_PATH = 'target/vprofile-v2.war'          // Path to the artifact
         GROUP_ID = 'QA'                    // Maven Group ID

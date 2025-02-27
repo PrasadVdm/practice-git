@@ -1,2 +1,3 @@
 key: value
 status: pending
+Message: Sample commit to test automatic builds by webhooks

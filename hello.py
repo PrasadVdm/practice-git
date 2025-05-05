@@ -1,4 +1,4 @@
-i = 0
+i = 1000
 
 if i == 0:
     print("Hello to you today")
